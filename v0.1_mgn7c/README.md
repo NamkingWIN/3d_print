@@ -1,1 +1,1 @@
-Use mgn7c block for voron 0.1
+Mod for mgn7c compatiple for voron 0.1
